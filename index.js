@@ -61929,7 +61929,22 @@ module.exports={
       "network": "Instagram",
       "username": "pana.fintech",
       "url": "https://www.instagram.com/pana.fintech/"
+    },{
+      "network": "Email",
+      "username": "panafintech",
+      "url": "mailto://comunidad@panafintech.com"
+    },
+    {
+      "network": "Github",
+      "username": "panafintech",
+      "url": "https://github.com/panafintech"
+    },
+    {
+      "network": "slack",
+      "username": "panafintech",
+      "url": "http://panafintech.slack.com/"
     }
+
   ]
 }
 
@@ -62088,7 +62103,7 @@ var FullHouse = function (_React$Component) {
             _react2.default.createElement(
               'div',
               { className: 'cardcontent-div' },
-              _react2.default.createElement('img', { src: '' })
+              _react2.default.createElement('img', { src: './images/panafintech-face-event2_orig.png' })
             )
           )
         )

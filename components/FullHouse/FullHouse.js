@@ -58324,7 +58324,7 @@ var FullHouse = function (_React$Component) {
             _react2.default.createElement(
               'div',
               { className: 'cardcontent-div' },
-              _react2.default.createElement('img', { src: '' })
+              _react2.default.createElement('img', { src: './images/panafintech-face-event2_orig.png' })
             )
           )
         )
